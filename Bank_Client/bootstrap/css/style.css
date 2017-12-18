@@ -1,0 +1,67 @@
+.jumbotronTop{
+    height: 700px;
+    width: 100%;
+    background-image: url("/images/headerbg.jpg");
+    background-attachment: fixed;
+}
+.jumbotronMiddle{
+    height: 300px;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-image: url("/images/trees.jpg");
+    background-attachment: fixed;
+}
+.top-images{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.footer{
+    height:400px;
+    width: 100%;
+    background-image: url("/images/footer_lodyas.png");
+    background-attachment: fixed;
+}
+.features{
+    padding-bottom: 150px;
+}
+.info{
+    height:400px;
+}
+.margin-left-sml{
+    margin-left: 50px;
+}
+.margin-right-sml{
+    margin-right: 120px;
+}
+.middle-btn{
+    margin-left: 26%;
+}
+.middle-search{
+    margin-left: 40%;
+}
+
+
+
+
+/*colours*/
+.text-silver{
+    color: #c0c0c0;
+}
+.heading-colour{
+    color: #4d4d4d;
+}
+.subheading-colour{
+    color:#808080;
+}
+.background{
+    background-color: #f7f7f9;
+}
+
+.insecure_background{
+    background-color: #f7f7f9;
+    width:100%;
+}
